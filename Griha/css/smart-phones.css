@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+a{outline:none;}
+
+/*support page css start code*/
+
+/*.product-tab {width:100%;float:left;background:url(../images/tab-bg2.png) no-repeat left 6px;}change in css*/
+/*.product-tab ul{list-style:none; margin:0; padding:0 0 0 0; position:absolute; left:2px; bottom:0px; z-index:1;}*/
+/*.product-tab ul li{line-height:normal; float:left; background:url(../images/seprator2.jpg) no-repeat right 0;}change in css*/
+/*.product-tab ul li.tab-bgnone{background:none;}
+
+.product-tab ul li a{display:block; font-family:Verdana; font-size:16px; color:#565656;}
+.product-tab ul li a:hover, .product-tab ul li a.active{display:block;color:#fff; background:url(../images/tab-hover-bg.png) no-repeat center top;}*/
+
+/**//*==starting-responsive==*/

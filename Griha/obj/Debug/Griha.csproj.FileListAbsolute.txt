@@ -1,0 +1,12 @@
+E:\From Compaq\VillaProject\Griha\website\Griha\Griha\bin\Griha.dll.config
+E:\From Compaq\VillaProject\Griha\website\Griha\Griha\bin\Griha.dll
+E:\From Compaq\VillaProject\Griha\website\Griha\Griha\bin\Griha.pdb
+E:\From Compaq\VillaProject\Griha\website\Griha\Griha\obj\Debug\Griha.csprojResolveAssemblyReference.cache
+E:\From Compaq\VillaProject\Griha\website\Griha\Griha\obj\Debug\Griha.dll
+E:\From Compaq\VillaProject\Griha\website\Griha\Griha\obj\Debug\Griha.pdb
+E:\Faiz\Github\Repositories\Griha Website\Griha\bin\Griha.dll.config
+E:\Faiz\Github\Repositories\Griha Website\Griha\bin\Griha.dll
+E:\Faiz\Github\Repositories\Griha Website\Griha\bin\Griha.pdb
+E:\Faiz\Github\Repositories\Griha Website\Griha\obj\Debug\Griha.csprojResolveAssemblyReference.cache
+E:\Faiz\Github\Repositories\Griha Website\Griha\obj\Debug\Griha.dll
+E:\Faiz\Github\Repositories\Griha Website\Griha\obj\Debug\Griha.pdb
